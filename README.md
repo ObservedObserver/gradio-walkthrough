@@ -5,7 +5,7 @@ app_file: app.py
 pinned: false
 ---
 
-# gradio-walkthrough
+# pygwalker-gradio
  
 ## App 1: Visual Exploration of AirBnB Listings in NYC using [pygwalker](https://github.com/Kanaries/pygwalker)
 > [pygwalker]() is a Python library that turns your dataframe/data connection into an interactive visualization module that allows you to analysis the data with drag-and-drop/chat interface, like tableau/powerBI.
