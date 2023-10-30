@@ -1,4 +1,4 @@
-pygwalker
+pygwalker>=0.3.10a2
 gradio
 pandas
 datasets
