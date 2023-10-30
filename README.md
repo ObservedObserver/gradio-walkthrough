@@ -39,3 +39,7 @@ app = demo.launch(app_kwargs={
     "routes": [PYGWALKER_ROUTE]
 })
 ```
+
+
++ [app.py](./app.py) pygwalker's kernel computation in gradio
++ [app_lite.py] basic example, without kernel computation
